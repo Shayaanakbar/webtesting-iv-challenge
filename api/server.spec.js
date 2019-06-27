@@ -15,4 +15,10 @@ describe('GET/', () => {
 
     expect(res.body).toEqual({message: 'Welcome traveler! your server is running'})
   });
+
+  it('should return JSON', async () => {
+    const res = await request(server).get('/')
+
+    expect(res.type).toBe('application/json');
+  })
 })
