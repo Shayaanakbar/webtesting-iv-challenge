@@ -8,5 +8,11 @@ describe('GET/', () => {
   it('should return status 200', async () => {
     const res = await request(server).get('/');
     expect(res.status).toBe(200);
-  })
+  });
+
+  it('should return a json message', async () => {
+    const res = await request(server).get('/');
+
+    expect(res.body).toEqual({message: 'Welcome traveler! your server is running'})
+  });
 })
