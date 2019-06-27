@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0e3fa554-0de1-4519-a185-cfbb49ae9459" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/travelers.db3" beforeDir="false" afterPath="$PROJECT_DIR$/data/travelers.db3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelers/travelersModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/travelers/travelersModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelers/travelersModel.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/travelers/travelersModel.spec.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="845" />
+          <entry key="js" value="856" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="845" />
+          <entry key="JavaScript" value="856" />
         </counts>
       </usages-collector>
     </session>
@@ -88,15 +91,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travelers/travelersModel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="360">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/travelers/travelersModel.spec.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -116,6 +123,7 @@
         <option value="$PROJECT_DIR$/api/server.spec.js" />
         <option value="$PROJECT_DIR$/data/seeds/001-travelers.js" />
         <option value="$PROJECT_DIR$/travelers/travelersModel.js" />
+        <option value="$PROJECT_DIR$/travelers/travelersModel.spec.js" />
       </list>
     </option>
   </component>
@@ -163,7 +171,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/shayaanakbar/Desktop/LambdaBackend/webtesting-iv-challenge/travelers/travelersModel.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561653026712" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561653180126" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -190,12 +198,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561603623084</updated>
-      <workItem from="1561603624405" duration="3593000" />
+      <workItem from="1561603624405" duration="3832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3593000" />
+    <option name="totallyTimeSpent" value="3832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="6" />
@@ -305,13 +313,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/travelers/travelersModel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/travelers/travelersModel.spec.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
